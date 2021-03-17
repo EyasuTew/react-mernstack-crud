@@ -6,9 +6,6 @@ import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 
-// Bootstrap CSS
-import 'bootstrap/dist/css/bootstrap.css';
-
 ReactDOM.render(
   <BrowserRouter>
     <App />
